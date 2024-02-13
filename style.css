@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #9B4444;
+}
+h1{
+    text-align: center;
+    color: white;
+    
+}
+button{
+    background-color: #A3C9AA;
+    height: 55px;
+    width: 60px;
+    padding: 10px;
+   
+    border-radius: 6px;
+    
+    
+}
+.container{
+   
+    margin:auto;
+    height: 200px;
+    width: 198px;
+   
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    flex-wrap: wrap;
+    gap: 3px ;
+   
+}
+
+.contain2{
+    margin: auto;
+    height: 150px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    
+}
+.newGame{
+    height: 50px;
+    width: 140px;
+    font-size: 20px;
+}
